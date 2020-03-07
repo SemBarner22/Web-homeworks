@@ -19,3 +19,6 @@
 [submodule "Web-VueJs-1"]
 	path = Web-VueJs-1
 	url = https://github.com/SemBarner22/Web-VueJs-1
+[submodule "Web-Vue-2"]
+	path = Web-Vue-2
+	url = https://github.com/SemBarner22/Web-Vue-2
