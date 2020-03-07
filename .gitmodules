@@ -13,3 +13,6 @@
 [submodule "Web-3"]
 	path = Web-3
 	url = https://github.com/SemBarner22/Web-3
+[submodule "WebHomeWork4"]
+	path = WebHomeWork4
+	url = https://github.com/SemBarner22/WebHomeWork4
