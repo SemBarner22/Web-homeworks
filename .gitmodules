@@ -4,3 +4,6 @@
 [submodule "Web-7"]
 	path = Web-7
 	url = https://github.com/SemBarner22/Web-7
+[submodule "WebHomeWork5"]
+	path = WebHomeWork5
+	url = https://github.com/SemBarner22/WebHomeWork5
