@@ -10,3 +10,6 @@
 [submodule "Web-6"]
 	path = Web-6
 	url = https://github.com/SemBarner22/Web-6
+[submodule "Web-3"]
+	path = Web-3
+	url = https://github.com/SemBarner22/Web-3
