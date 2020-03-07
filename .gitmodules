@@ -2,3 +2,6 @@
 [submodule "hw08"]
 	path = hw08
 	url = https://github.com/SemBarner22/WEB-8.git
+[submodule "WEB-8"]
+	path = WEB-8
+	url = https://github.com/SemBarner22/WEB-8
